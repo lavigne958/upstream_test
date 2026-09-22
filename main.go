@@ -6,6 +6,7 @@ import (
 
 const (
 	Version = "v0.1.0"
+	DD      = true
 )
 
 func main() {
