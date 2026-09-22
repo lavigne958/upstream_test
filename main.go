@@ -4,6 +4,10 @@ import (
 	"fmt"
 )
 
+const (
+	Version = "v0.1.0"
+)
+
 func main() {
-	fmt.Println("it works")
+	fmt.Println("it works ", Version)
 }
